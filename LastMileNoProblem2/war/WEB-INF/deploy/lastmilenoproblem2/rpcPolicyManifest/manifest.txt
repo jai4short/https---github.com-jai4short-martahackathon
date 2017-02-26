@@ -1,0 +1,3 @@
+# Module lastmilenoproblem2
+# RPC service class, partial path of RPC policy file
+com.lastmilenoproblem.www.client.GreetingService, 9F8CB1DD2B7ABE4EAE466AD64D0161EB.gwt.rpc

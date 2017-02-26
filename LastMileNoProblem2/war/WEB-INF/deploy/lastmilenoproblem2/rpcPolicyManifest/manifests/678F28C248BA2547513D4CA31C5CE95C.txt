@@ -1,0 +1,2 @@
+serviceClass: com.lastmilenoproblem.www.client.GreetingService
+path: 9F8CB1DD2B7ABE4EAE466AD64D0161EB.gwt.rpc
